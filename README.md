@@ -1,10 +1,10 @@
 ## Загрузить приложение
 
 **Для Android:**  
-[Скачать APK](https://github.com/art-vvorx/PassGenerator/blob/main/releases/pass-generator_android.apk)
+[Скачать APK](https://github.com/art-vvorx/PassGenerator/raw/refs/heads/main/releases/pass-generator_android.apk)
 
 **Для Windows:**  
-[Скачать ZIP](https://github.com/art-vvorx/PassGenerator/blob/main/releases/pass-generator_windows.zip)
+[Скачать ZIP](https://github.com/art-vvorx/PassGenerator/raw/refs/heads/main/releases/pass-generator_windows.zip)
 
 ---
 
